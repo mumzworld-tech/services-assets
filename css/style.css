@@ -1,0 +1,7 @@
+.topbar {
+  display: none !important;
+}
+
+body > svg {
+  display: none !important;
+}
