@@ -1,0 +1,10 @@
+.swagger-ui .info .title::before {
+  content: "";
+  display: inline-block;
+  width: 48px;
+  height: 48px;
+  margin-right: 12px;
+  vertical-align: middle;
+  background: url("https://mumzworld-tech.github.io/services-assets/images/carrier-hub.png") no-repeat center;
+  background-size: contain;
+}
